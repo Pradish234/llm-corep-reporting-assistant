@@ -1,0 +1,46 @@
+{
+  "template_id": "COREP_C_01.00",
+  "template_name": "Own Funds",
+  "reporting_currency": "GBP",
+  "reporting_period": "YYYY-MM-DD",
+  "own_funds_items": [
+    {
+      "field_code": "CET1_010",
+      "field_name": "Common Equity Tier 1 capital",
+      "amount": null,
+      "unit": "GBP",
+      "source_rule": {
+        "rulebook": "PRA Rulebook",
+        "section": "",
+        "paragraph": ""
+      },
+      "confidence": "high"
+    },
+    {
+      "field_code": "T1_020",
+      "field_name": "Tier 1 capital",
+      "amount": null,
+      "unit": "GBP",
+      "source_rule": {
+        "rulebook": "PRA Rulebook",
+        "section": "",
+        "paragraph": ""
+      },
+      "confidence": "high"
+    },
+    {
+      "field_code": "OF_030",
+      "field_name": "Total own funds",
+      "amount": null,
+      "unit": "GBP",
+      "source_rule": {
+        "rulebook": "PRA Rulebook",
+        "section": "",
+        "paragraph": ""
+      },
+      "confidence": "high"
+    }
+  ],
+  "validation_flags": [],
+  "audit_log": []
+}
